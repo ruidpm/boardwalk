@@ -1,5 +1,5 @@
 # Boardwalk
-This was developed as the second group project at Academia de Codigo's Bootcamp#29, at the end of the 7th week. We built it in three days.
+This was developed as the second group project at Academia de Codigo's Bootcamp#29, at the end of the 7th week. We built it in a weekend.
 
 In this game you are a pirate and you want to find the treasure's key. How can you do that? Unravel the expression, letter by letter, or try to guess the entire expression. For every letter you miss, your ship sinks a bit.
 
